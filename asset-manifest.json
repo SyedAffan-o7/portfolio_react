@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/portfolio_react/static/css/main.31d6cfe0.css",
+    "main.js": "/portfolio_react/static/js/main.fabecc15.js",
+    "index.html": "/portfolio_react/index.html",
+    "main.fabecc15.js.map": "/portfolio_react/static/js/main.fabecc15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.fabecc15.js"
+  ]
+}
